@@ -22,9 +22,9 @@
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
-# 📖 [5 THML & CSS Mini Projects] <a name="about-project"></a>
+# 📖 [Harse Pak] <a name="about-project"></a>
 
-**5 THML & CSS Mini Projects** There are 5 mini html and css projects
+**Harse Pak** This is a website for a company that sells cloud hosting.
 
 ## 🛠️ Built With <a name="built-with"></a>
 
@@ -66,7 +66,7 @@ Clone this repository to your desired folder by running the following commands i
 ```sh
   cd your-prefered-folder-name
   
-  git clone git@github.com:78fatemanazari/mini-html-css-projects.git
+  git clone git@github.com:78fatemanazari/parse_pak.git
 ```
 
 <!-- AUTHORS -->
