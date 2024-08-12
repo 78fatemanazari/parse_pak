@@ -1,0 +1,72 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+@font-face {
+  font-family: myFont;
+  src: url('../fonts/Byekan.ttf') format('trutype'),
+       url('../fonts/Byekan.woff') format('woff');
+}
+
+body{
+  font-family: myFont;
+}
+
+.header_container{
+  height: 100px;
+  display: flex;
+}
+
+.left_container{
+  width: 30%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.left_container button{
+  width: 60px;
+  border: none;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 20px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.log_in{
+  color: #fff;
+  background-color: #0890eb;
+}
+
+.sign_up{
+  color: #0890eb;
+  background-color: #fff;
+}
+
+.right_container{
+  width: 70%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.link_container {
+  width: 80%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.link_container a{
+  text-decoration: none;
+  color: rgb(179, 177, 177);
+  font-size: 18px;
+}
+
+.logo_container{
+  width: 20%;
+  height: 100%;
+  background-color: red;
+}
