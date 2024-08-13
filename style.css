@@ -65,15 +65,19 @@ body{
   font-size: 18px;
 }
 
+.link_container a:hover{
+  color: #0890eb;
+}
+
 .logo_container{
   width: 20%;
   height: 100%;
+  background-color: #0890eb;
+  text-align: center;
 }
 
-.logo_container h1{
-  color: #0890eb;
-  text-align: center;
-  margin-top: 22px;
+.logo_container img{
+  margin-top: 20px;
 }
 
 .main_container{
